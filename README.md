@@ -125,4 +125,4 @@ As variáveis CSS definidas no arquivo incluem: :contentReference[oaicite:6]{ind
 ## Arquivo principal
 
 ```bash
-new_dashboard.html
+index.html
